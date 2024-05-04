@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "nalt",
   "version": "1.0.0",
   "description": "nalt server",
   "main": "src/main.ts",
