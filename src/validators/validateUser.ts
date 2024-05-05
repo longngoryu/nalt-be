@@ -32,7 +32,7 @@ class User {
 export async function validateUser(
   email: string,
   password: string,
-  name: string = "",
+  name: string = "guest",
   role: UserRole = UserRole.guest
 ) {
   try {
