@@ -3,22 +3,10 @@
 ## Getting Started
 
 ```bash
-cd server
 npm run dev
 ```
 
 Open [http://localhost:5000](http://localhost:5000) with your browser to see the result.
-
-## List API
-
-```bash
-GET /api/users/
-
-POST /api/auth/signup/
-POST /api/auth/signin/
-GET /api/auth/me/
-
-```
 
 ## Deploy on Render
 
